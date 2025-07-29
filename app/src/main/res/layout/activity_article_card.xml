@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/primary_color"
+    android:orientation="vertical"
+    tools:context=".ArticleCard">
+
+    <ImageView
+        android:id="@+id/articleImage"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/question_mark" />
+
+    <TextView
+        android:id="@+id/articleTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/articleImage"
+        android:padding="10dp"
+        android:text="Blog Title"
+        android:textColor="@color/secondary_color"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/articleParaA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/articleTitle"
+        android:padding="10dp"
+        android:text="404 - Blog Not Found"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/articleParaB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/articleParaA"
+        android:padding="10dp"
+        android:text="404 - Blog Not Found"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:id="@+id/articleAuthor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/articleParaB"
+        android:padding="10dp"
+        android:text="404 - Blog Not Found"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp" />
+</RelativeLayout>

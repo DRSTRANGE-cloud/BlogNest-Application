@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_color"
+    android:paddingTop="50dp"
+    tools:context=".AddArticlePage">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="A d d    A r t i c l e"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/secondary_color"
+        android:textSize="30dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:text="Blog Title"
+        android:textAlignment="center"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/articleTitle"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter BLog title here..."
+        android:padding="10dp"
+        android:textColor="@color/secondary_color"
+        android:contentDescription="Field to enter the article title"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="170dp"
+        android:text="Blog Paragraph A"
+        android:textAlignment="center"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/articleParaA"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter first paragraph here..."
+        android:padding="10dp"
+        android:textColor="@color/hint_color"
+        android:contentDescription="Field to enter the first article paragraph"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:text="Blog Paragraph B"
+        android:textAlignment="center"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/articleParaB"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="280dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter second paragraph here..."
+        android:padding="10dp"
+        android:textColor="@color/secondary_color"
+        android:contentDescription="Field to enter the second article paragraph"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="330dp"
+        android:text="Blog Type"
+        android:textAlignment="center"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <Spinner
+        android:id="@+id/articleType"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/articleParaB"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/rounded_corner"
+        android:entries="@array/article_categories"
+        android:padding="10dp"
+        android:prompt="@string/select_category"
+        android:spinnerMode="dropdown"
+        android:textColor="@color/secondary_color"
+        android:contentDescription="Dropdown to select article category"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="440dp"
+        android:text="Blog Image"
+        android:textAlignment="center"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:id="@+id/addImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="480dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Button to add article image"
+            android:paddingLeft="20dp"
+            android:paddingRight="15dp"
+            android:src="@drawable/add_image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="Choose Image"
+            android:textColor="@color/secondary_color"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/addArticle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="600dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Button to add article"
+            android:paddingLeft="20dp"
+            android:paddingRight="15dp"
+            android:src="@drawable/add_article" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="Add Blog"
+            android:textColor="@color/secondary_color"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goBackToHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+    android:layout_marginRight="30dp"
+    android:background="@drawable/rounded_corner"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:background="@color/button_bg"
+        android:contentDescription="Button to go back to the home page"
+        android:paddingLeft="20dp"
+        android:paddingRight="15dp"
+        android:src="@drawable/home" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="10dp"
+        android:text="Back To Home Page"
+        android:textColor="@color/secondary_color"
+        android:textSize="18dp" />
+</LinearLayout>
+
+    </RelativeLayout>

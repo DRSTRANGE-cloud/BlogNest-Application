@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:paddingTop="5dp"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="71dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="30dp"
+        android:text="BLOGNEST"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:id="@+id/goToEntertainment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@color/button_bg"
+            android:contentDescription="Entertainment category button"
+            android:src="@drawable/entertainment" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:gravity="center"
+            android:text="Entertainment News"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goToFashion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_corner"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Fashion category button"
+            android:src="@drawable/fashion"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="Fashion Trends"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goToGames"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_corner"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Gaming category button"
+            android:src="@drawable/games"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="Gaming News"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goToSports"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="290dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_corner"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Sports category button"
+            android:src="@drawable/sports"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="Sports Highlights"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/goToBusiness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="360dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_corner"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Business category button"
+            android:src="@drawable/dollar"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="Business Insights"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goToAddArticle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_corner"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Add New Article button"
+            android:src="@drawable/add_article"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="Write New Blog"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goToProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="500dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_corner"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Profile page button"
+            android:src="@drawable/profile"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="My Profile"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goToAuth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="570dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_corner"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Logout button"
+            android:src="@drawable/logout"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="Logout"
+            android:textColor="@color/secondary_color"
+            android:textSize="18sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tutorial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="640dp"
+    android:layout_marginRight="30dp"
+    android:orientation="horizontal"
+    android:background="@drawable/rounded_corner"
+    android:padding="12dp"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@color/button_bg"
+        android:contentDescription="Tutorial Button"
+        android:src="@drawable/guide4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text=" User Guide "
+        android:textColor="@color/secondary_color"
+        android:textSize="18sp"
+        android:gravity="center" />
+</LinearLayout>
+
+</RelativeLayout>

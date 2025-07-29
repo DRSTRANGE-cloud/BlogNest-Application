@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/BusinessMain"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/primary_color"
+    tools:context=".BusinessPage">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Business"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/secondary_color"
+        android:textSize="30dp"
+        tools:ignore="MissingConstraints" />
+
+    <ScrollView
+        android:id="@+id/articleContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/goBackToHome"
+        android:layout_marginTop="150dp">
+
+        <LinearLayout
+            android:id="@+id/articleContainerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"></LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/goBackToHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:visibility="invisible">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Like button"
+            android:paddingLeft="20dp"
+            android:paddingRight="15dp"
+            android:src="@drawable/home" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="Back To Home Page"
+            android:textColor="@color/secondary_color"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+</RelativeLayout>

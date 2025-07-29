@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/slideImage"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/tutorial3" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fillViewport="true">
+
+        <TextView
+            android:id="@+id/slideText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Description Text"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:padding="10dp"
+            android:gravity="center"
+            android:maxLines="10"
+            android:scrollbars="vertical" />
+    </ScrollView>
+</LinearLayout>

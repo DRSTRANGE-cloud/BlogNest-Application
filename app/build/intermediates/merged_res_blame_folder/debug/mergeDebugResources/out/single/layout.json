@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_business_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_business_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_entertainment_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_entertainment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_auth_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_auth_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_games_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_games_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_profile_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_profile_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\content_activity_business.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\content_activity_business.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.project_magazine.app-mergeDebugResources-42:/layout/activity_article_card.xml",
+        "source": "com.example.project_magazine.app-main-45:/layout/activity_article_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_signup_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_signup_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_add_article_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_add_article_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_tutorial.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_fashion_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_fashion_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\slide_item.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\slide_item.xml"
+    },
+    {
+        "merged": "com.example.project_magazine.app-mergeDebugResources-42:/layout/activity_profile_page.xml",
+        "source": "com.example.project_magazine.app-main-45:/layout/activity_profile_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_sports_page.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_sports_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-mergeDebugResources-42:\\layout\\activity_article_card.xml",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_article_card.xml"
+    }
+]

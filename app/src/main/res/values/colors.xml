@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#222222</color>
+    <color name="secondary_color">#00FBFF</color>
+    <color name="prf">#00FBFF</color>
+    <color name="button_bg">#333333</color>
+    <color name="hint_color">#cccccc</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="back_color">#1D1919</color>
+
+</resources>

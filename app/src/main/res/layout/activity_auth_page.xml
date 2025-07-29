@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AuthPage"
+    android:paddingTop="50dp"
+    android:background="@color/back_color">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/secondary_color"
+        android:text="BlogNest"
+        android:textAllCaps="true"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/secondary_color"
+        android:text="Email ID"
+        android:textAlignment="textStart"
+        android:layout_marginLeft="25dp"
+        android:textSize="20dp"
+        android:layout_marginTop="100dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/userAuthEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColorHint="@color/hint_color"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter email here..."
+        android:layout_marginTop="175dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/secondary_color"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/secondary_color"
+        android:text="Password"
+        android:textAlignment="textStart"
+        android:textSize="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="250dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/userAuthPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="@color/secondary_color"
+        android:textColorHint="@color/hint_color"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter password here..."
+        android:layout_marginTop="325dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:id="@+id/goToSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="540dp"
+        android:layout_marginRight="60dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/button_bg"
+            android:paddingRight="15dp"
+            android:paddingLeft="20dp"
+            android:contentDescription="Like button"
+            android:src="@drawable/signup" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="Go To Signup Page"
+            android:textColor="@color/secondary_color"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goBackToHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="425dp"
+        android:layout_marginRight="60dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/button_bg"
+            android:paddingRight="15dp"
+            android:paddingLeft="20dp"
+            android:contentDescription="Like button"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="Login"
+            android:textColor="@color/secondary_color"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_color"
+    android:paddingTop="50dp"
+    tools:context=".SignupPage">
+
+    <ImageView
+        android:layout_width="69dp"
+        android:layout_height="59dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/logoo"
+        ></ImageView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Blog Nest"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/secondary_color"
+        android:textSize="30dp"
+        tools:ignore="MissingConstraints"
+
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Email ID"
+        android:textAlignment="textStart"
+        android:layout_marginLeft="50dp"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/userEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter email here..."
+        android:padding="10dp"
+        android:textColor="@color/secondary_color"
+        android:textColorHint="@color/hint_color"
+        android:textSize="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:text="Password"
+        android:textAlignment="textStart"
+        android:layout_marginLeft="50dp"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/userPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter password here..."
+        android:padding="10dp"
+        android:textColor="@color/secondary_color"
+        android:textColorHint="@color/hint_color"
+        android:textSize="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="310dp"
+        android:text="Phone Number"
+        android:textAlignment="textStart"
+        android:layout_marginLeft="50dp"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/userPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="360dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter phone number here..."
+        android:padding="10dp"
+        android:textColor="@color/secondary_color"
+        android:textColorHint="@color/hint_color"
+        android:textSize="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="420dp"
+        android:text="Username"
+        android:textAlignment="textStart"
+        android:layout_marginLeft="50dp"
+        android:textColor="@color/secondary_color"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="460dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Enter Username here..."
+        android:padding="10dp"
+        android:textColor="@color/secondary_color"
+        android:textColorHint="@color/hint_color"
+        android:textSize="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:id="@+id/goToLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="600dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        >
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Like button"
+            android:paddingLeft="20dp"
+            android:paddingRight="15dp"
+            android:src="@drawable/logout" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="Go To Login Page"
+            android:textColor="@color/secondary_color"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/goBackToHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="520dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/button_bg"
+            android:contentDescription="Like button"
+            android:paddingLeft="20dp"
+            android:paddingRight="15dp"
+            android:src="@drawable/signup" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="SignUp"
+            android:textColor="@color/secondary_color"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+</RelativeLayout>

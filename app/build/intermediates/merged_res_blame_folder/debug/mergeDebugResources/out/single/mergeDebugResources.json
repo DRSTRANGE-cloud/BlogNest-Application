@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_left_50px.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\left_50px.png"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_signup.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_fashion.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\fashion.png"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_p1.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\p1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_signup_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_signup_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_content_activity_business.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\content_activity_business.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_profilepage.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\profilepage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_fashion_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_fashion_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_login.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.project_magazine.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_tutorial1.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\tutorial1.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_guide3.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\guide3.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_tutorial_icon.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\tutorial_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_guide1.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\guide1.png"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_p5.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\p5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_profile_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_profile_page.xml"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_question_mark.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\question_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_games.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\games.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_tutorial2.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\tutorial2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_blogadd.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\blogadd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_slide_item.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\slide_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_p2.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\p2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_dollar.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_add_article_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_add_article_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_entertainment.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\entertainment.png"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_p6.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\p6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_register.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\register.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_logoo.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\logoo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_p3.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\p3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_add_article.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\add_article.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_guide4.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\guide4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_business_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_business_page.xml"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_auth_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_auth_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_entertainment_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_entertainment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_tutorial.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_mainpage1.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\mainpage1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_add_image.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\add_image.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_home.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_article_card.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_article_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_sports.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\sports.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_tutorial3.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\tutorial3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_games_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_games_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-anydpi-v26_download.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-anydpi-v26\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_p4.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\p4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\layout_activity_sports_page.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\layout\\activity_sports_page.xml"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_first.jpg.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\first.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\logout.png"
+    },
+    {
+        "merged": "com.example.project_magazine.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_magazine.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\drawable_guide2.png.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\drawable\\guide2.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-debug-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.5\\com.example.project_magazine.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]

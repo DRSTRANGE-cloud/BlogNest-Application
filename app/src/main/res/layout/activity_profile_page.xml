@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ProfileMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:paddingTop="50dp"
+    tools:context=".ProfilePage">
+
+<TextView
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginTop="30dp"
+android:text="Profile"
+android:textAlignment="center"
+android:textAllCaps="true"
+android:textColor="@color/prf"
+android:textSize="30dp"
+tools:ignore="MissingConstraints" />
+
+<EditText
+android:id="@+id/editTextUsername"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="30dp"
+android:layout_marginTop="100dp"
+android:layout_marginRight="30dp"
+android:background="@drawable/rounded_corner"
+android:hint="Username"
+android:padding="10dp"
+android:textColor="@color/secondary_color"
+android:textColorHint="@color/hint_color" />
+
+<EditText
+android:id="@+id/editTextPhoneNumber"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_below="@id/editTextUsername"
+android:layout_marginLeft="30dp"
+android:layout_marginTop="20dp"
+android:layout_marginRight="30dp"
+android:background="@drawable/rounded_corner"
+android:hint="Phone Number"
+android:padding="10dp"
+android:textColor="@color/secondary_color"
+android:textColorHint="@color/hint_color" />
+
+<EditText
+android:id="@+id/editTextEmail"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_below="@id/editTextPhoneNumber"
+android:layout_marginLeft="30dp"
+android:layout_marginTop="20dp"
+android:layout_marginRight="30dp"
+android:background="@drawable/rounded_corner"
+android:hint="Email"
+android:padding="10dp"
+android:textColor="@color/secondary_color"
+android:textColorHint="@color/hint_color" />
+
+<EditText
+android:id="@+id/editTextPassword"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_below="@id/editTextEmail"
+android:layout_marginLeft="30dp"
+android:layout_marginTop="20dp"
+android:layout_marginRight="30dp"
+android:background="@drawable/rounded_corner"
+android:hint="Password"
+android:inputType="textPassword"
+android:padding="10dp"
+android:visibility="invisible"
+android:textColor="@color/secondary_color"
+android:textColorHint="@color/hint_color" />
+
+<TextView
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginTop="300dp"
+android:text="YOUR BLOGS"
+android:textAlignment="center"
+android:textAllCaps="true"
+android:textColor="@color/secondary_color"
+android:textSize="30dp"
+tools:ignore="MissingConstraints" />
+
+<ScrollView
+android:id="@+id/articleContainer"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginTop="350dp">
+
+<LinearLayout
+    android:id="@+id/articleContainerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"></LinearLayout>
+</ScrollView>
+
+    </RelativeLayout>

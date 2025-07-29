@@ -20,7 +20,7 @@ Your go-to Android app for the latest articles and news across various categorie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DRSTRANGE-cloud/BlogNest-Application
+   git clone https://github.com/DRSTRANGE-cloud/BlogNest-Application.git
    ```
 2. Open the project in Android Studio
 3. Build and run the app on your emulator or physical device
